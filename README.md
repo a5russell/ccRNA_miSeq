@@ -17,5 +17,17 @@ The following directories, and their purpose, exist within this repository.
 
   ## Dependencies
 
-  
+  - <b>Python</b>      run with version 3.7. Available from https://www.python.org/downloads/release/python-370/
+- <b>Trimmomatic</b> run with version 0.39. Available from http://www.usadellab.org/cms/?page=trimmomatic
+- <b>STAR</b>        run with version 2.7.1.a. Available from https://github.com/alexdobin/STAR
+- <b>Samtools</b>    run with version 1.9. Available from http://www.htslib.org/
+- <b>FastQC</b>      run with version 0.11.8. Available from https://www.bioinformatics.babraham.ac.uk/projects/fastqc/
+
+The following python packages and versions were used. All were installed using mamba. (https://mamba.readthedocs.io/en/latest/installation/mamba-installation.html)
+- <b>numpy</b>       run with version 1.26.4. (https://numpy.org/)
+- <b>matplotlib</b>  run with version 3.8.4. (https://matplotlib.org/)
+- <b>seaborn</b>     run with version 0.13.2. (https://seaborn.pydata.org/)
+- <b>pandas</b>      run with version 2.2.2.(https://pandas.pydata.org/)
+- <b>scipy</b>       run with version 1.13.0. (https://www.scipy.org/)
+- <b>statsmodels</b> run with version 0.14.1. (https://www.statsmodels.org/stable/index.html)
 
