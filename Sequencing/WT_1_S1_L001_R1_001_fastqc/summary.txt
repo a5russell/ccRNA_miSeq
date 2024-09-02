@@ -1,0 +1,11 @@
+PASS	Basic Statistics	WT_1_S1_L001_R1_001.fastq.gz
+PASS	Per base sequence quality	WT_1_S1_L001_R1_001.fastq.gz
+PASS	Per tile sequence quality	WT_1_S1_L001_R1_001.fastq.gz
+PASS	Per sequence quality scores	WT_1_S1_L001_R1_001.fastq.gz
+FAIL	Per base sequence content	WT_1_S1_L001_R1_001.fastq.gz
+FAIL	Per sequence GC content	WT_1_S1_L001_R1_001.fastq.gz
+PASS	Per base N content	WT_1_S1_L001_R1_001.fastq.gz
+PASS	Sequence Length Distribution	WT_1_S1_L001_R1_001.fastq.gz
+FAIL	Sequence Duplication Levels	WT_1_S1_L001_R1_001.fastq.gz
+FAIL	Overrepresented sequences	WT_1_S1_L001_R1_001.fastq.gz
+FAIL	Adapter Content	WT_1_S1_L001_R1_001.fastq.gz
